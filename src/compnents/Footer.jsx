@@ -118,7 +118,7 @@ function Footer() {
         <div className="copyright">
           <p className="copyright__text">Copyright © 2023 </p>
           <button className="copyright__btn">
-            <a className="copyright__btn--text" href="https://discord.gg/XHpZ7xutQN">
+            <a className="copyright__btn--text" href="">
               made by webzone
             </a>
           </button>
